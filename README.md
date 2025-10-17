@@ -39,7 +39,7 @@ This is a comprehensive Power BI project showcasing end-to-end dashboard creatio
 
 ## 👨‍💻 About
 
-Created by [Your Name]  
+Created by [Navneet Kumar Sharma]  
 Connect on [LinkedIn](https://www.linkedin.com/in/navneet-sharma-0a7a05228/) | Explore more projects on my [GitHub](https://github.com/NavneetsScripts)
 
 ---
